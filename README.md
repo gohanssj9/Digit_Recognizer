@@ -1,4 +1,4 @@
-Digit Recognizer
+# Digit Recognizer
 
 A State of the art Decimal System Digit Recognizer using advanced techniques of Machine Learning, as well as Deep Learning.
 
